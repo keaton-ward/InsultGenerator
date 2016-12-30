@@ -1,0 +1,11 @@
+﻿  CMPE320_Assgnment_3.cpp
+c:\users\keaton\documents\visual studio 2015\projects\cmpe320_assgnment_3\cmpe320_assgnment_3\cmpe320_assgnment_3.cpp(146): warning C4273: 'addition': inconsistent dll linkage
+  c:\users\keaton\documents\visual studio 2015\projects\cmpe320_assgnment_3\cmpe320_assgnment_3\fraction_12kw32.h(11): note: see previous definition of 'addition'
+c:\users\keaton\documents\visual studio 2015\projects\cmpe320_assgnment_3\cmpe320_assgnment_3\cmpe320_assgnment_3.cpp(157): warning C4273: 'subtraction': inconsistent dll linkage
+  c:\users\keaton\documents\visual studio 2015\projects\cmpe320_assgnment_3\cmpe320_assgnment_3\fraction_12kw32.h(12): note: see previous definition of 'subtraction'
+c:\users\keaton\documents\visual studio 2015\projects\cmpe320_assgnment_3\cmpe320_assgnment_3\cmpe320_assgnment_3.cpp(168): warning C4273: 'multiplication': inconsistent dll linkage
+  c:\users\keaton\documents\visual studio 2015\projects\cmpe320_assgnment_3\cmpe320_assgnment_3\fraction_12kw32.h(13): note: see previous definition of 'multiplication'
+c:\users\keaton\documents\visual studio 2015\projects\cmpe320_assgnment_3\cmpe320_assgnment_3\cmpe320_assgnment_3.cpp(179): warning C4273: 'division': inconsistent dll linkage
+  c:\users\keaton\documents\visual studio 2015\projects\cmpe320_assgnment_3\cmpe320_assgnment_3\fraction_12kw32.h(14): note: see previous definition of 'division'
+  CMPE320_Assgnment_3.vcxproj -> C:\Users\Keaton\documents\visual studio 2015\Projects\CMPE320_Assgnment_3\Debug\CMPE320_Assgnment_3.dll
+  CMPE320_Assgnment_3.vcxproj -> C:\Users\Keaton\documents\visual studio 2015\Projects\CMPE320_Assgnment_3\Debug\CMPE320_Assgnment_3.pdb (Full PDB)
